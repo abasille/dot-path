@@ -1,0 +1,25 @@
+{
+  "name": "dot-path",
+  "version": "0.1.0",
+  "description": "Object accessor and setter with dot notation",
+  "main": "dot-path.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abasille/dot-path.git"
+  },
+  "keywords": [
+    "object",
+    "dot",
+    "accessor",
+    "dotty"
+  ],
+  "author": "= <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abasille/dot-path/issues"
+  },
+  "homepage": "https://github.com/abasille/dot-path#readme"
+}
